@@ -1,4 +1,4 @@
-Basic examples for a course I teach in Digital Humanities.
+Basic examples I downloaded from the Digital Humanities course.
 
 First example:
 
